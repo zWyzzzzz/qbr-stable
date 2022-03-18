@@ -70,6 +70,15 @@ Config.Horses = {
 		["A_C_Horse_Ardennes_StrawberryRoan"] = {"Strawberry Roan", 450, 450},
 		["A_C_Horse_Ardennes_BayRoan"] = {"Bay Roan", 140, 140},
 	},	
+		{
+		name = "Arabian",
+		["A_C_Horse_Arabian_White"] = {"White", 1200, 1200},
+		["A_C_Horse_Arabian_RoseGreyBay"] = {"Rose Grey Bay", 1250, 1250},
+		["A_C_Horse_Arabian_Black"] = {"Black", 1050, 1050},
+		["A_C_Horse_Arabian_Grey"] = {"Grey", 1050, 1050},
+		["A_C_Horse_Arabian_WarpedBrindle_PC"] = {"Warped Brindle", 450, 450},
+		["A_C_Horse_Arabian_RedChestnut"] = {"Red Chestnut", 250, 250},
+	},
 	{
 		name = "Missouri Fox Trotter",
 		["A_C_Horse_MissouriFoxTrotter_AmberChampagne"] = {"Amber Champagne", 950, 950},
